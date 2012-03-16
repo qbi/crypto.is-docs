@@ -5,8 +5,8 @@ More valuable than servers or money is users time and expertise.  Even if you do
 Outside that - here's some ideas to get involved:
 
  - If you know how to code - take a look at the [code audit feed](/projects/audit/) and see if that's something you're interested in helping with
- - If you like categorizing and collating, we aim to build a [collection of software](/projects/cch/).
- - If you're a sysadmin - perhaps you'd be interested in experimenting with [bleeding edge protocol improvements](/projects/bleeding/)
- - Are you curious about a particular technology?  We'd love [guides and documentation](/guides/) around [remailers](http://en.wikipedia.org/wiki/Anonymous_remailer), [OTR](http://www.cypherpunks.ca/otr/), and a whole lot more.
- - Check out our [Wishlist](/interact/wishlist/) of projects we'd like to work on, but just can't find the time.
- - Do you want to dive into a project right away?  We can hook you up - there's a lot of projects that are buggy, less-than-supported, or need updating for new versions of software.   
+  - If you like categorizing and collating, we aim to build a [collection of software](/projects/cch/).
+   - If you're a sysadmin - perhaps you'd be interested in experimenting with [bleeding edge protocol improvements](/projects/bleeding/)
+    - Are you curious about a particular technology?  We'd love [guides and documentation](/guides/) around [remailers](http://en.wikipedia.org/wiki/Anonymous_remailer), [OTR](http://www.cypherpunks.ca/otr/), and a whole lot more.
+     - Check out our [Wishlist](/interact/wishlist/) of projects we'd like to work on, but just can't find the time.
+      - Do you want to dive into a project right away?  We can hook you up - there's a lot of projects that are buggy, less-than-supported, or need updating for new versions of software.   
